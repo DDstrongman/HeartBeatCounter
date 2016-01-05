@@ -1,0 +1,6 @@
+framework module PromptAdvertising {
+  umbrella header "PromptAdvertising.h"
+
+  export *
+  module * { export * }
+}
